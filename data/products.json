@@ -1,0 +1,76 @@
+[
+  {
+    "barcode": "9780201896831",
+    "name": "Laptop HP Pavilion",
+    "price": 899.99,
+    "imageUrl": "https://example.com/images/laptop-hp.jpg"
+  },
+  {
+    "barcode": "5901234123457",
+    "name": "Smartphone Samsung Galaxy S21",
+    "price": 799.99,
+    "imageUrl": "https://example.com/images/samsung-s21.jpg"
+  },
+  {
+    "barcode": "4000000000007",
+    "name": "Wireless Headphones Sony",
+    "price": 199.99,
+    "imageUrl": "https://example.com/images/sony-headphones.jpg"
+  },
+  {
+    "barcode": "7622210030115",
+    "name": "Apple iPad Pro",
+    "price": 1099.99,
+    "imageUrl": "https://example.com/images/ipad-pro.jpg"
+  },
+  {
+    "barcode": "8901072001126",
+    "name": "Logitech MX Master Mouse",
+    "price": 99.99,
+    "imageUrl": "https://example.com/images/logitech-mouse.jpg"
+  },
+  {
+    "barcode": "3045320094084",
+    "name": "Apple AirPods Pro",
+    "price": 249.99,
+    "imageUrl": "https://example.com/images/airpods-pro.jpg"
+  },
+  {
+    "barcode": "6291041500213",
+    "name": "Dell XPS 13 Laptop",
+    "price": 1299.99,
+    "imageUrl": "https://example.com/images/dell-xps.jpg"
+  },
+  {
+    "barcode": "8904091100171",
+    "name": "SanDisk 1TB SSD",
+    "price": 129.99,
+    "imageUrl": "https://example.com/images/sandisk-ssd.jpg"
+  },
+  {
+    "barcode": "8480000160515",
+    "name": "Microsoft Surface Pro",
+    "price": 999.99,
+    "imageUrl": "https://example.com/images/surface-pro.jpg"
+  },
+  {
+    "barcode": "5449000000996",
+    "name": "Canon EOS DSLR Camera",
+    "price": 649.99,
+    "imageUrl": "https://example.com/images/canon-camera.jpg"
+  },
+  {
+    "barcode": "1234567890123",
+    "name": "Kurkure",
+    "price": 20,
+    "imageUrl": "https://example.com/images/default-product.jpg",
+    "timestamp": "2025-05-03T10:41:53.664Z"
+  },
+  {
+    "price": 25.5,
+    "barcode": "9876543210123",
+    "name": "Pepsi",
+    "imageUrl": "https://example.com/images/pepsi.jpg",
+    "timestamp": "2025-05-03T10:42:02.712Z"
+  }
+]
